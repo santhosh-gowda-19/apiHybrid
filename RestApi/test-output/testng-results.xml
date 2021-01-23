@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="930" started-at="2020-07-23T09:03:12Z" finished-at="2020-07-23T09:03:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="930" started-at="2020-07-23T09:03:12Z" finished-at="2020-07-23T09:03:13Z">
+      <class name="qspiders.JdbctoJson">
+        <test-method status="PASS" signature="testDB()[pri:0, instance:qspiders.JdbctoJson@17ed40e0]" name="testDB" duration-ms="915" started-at="2020-07-23T14:33:12Z" finished-at="2020-07-23T14:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDB -->
+      </class> <!-- qspiders.JdbctoJson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
